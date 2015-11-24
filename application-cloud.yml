@@ -2,6 +2,6 @@ spring:
   cloud:
     services:
       registrationMethod: direct
-eureka:
-  instance:
-     nonSecurePort: 80
+#eureka:
+#  instance:
+#     nonSecurePort: 80
